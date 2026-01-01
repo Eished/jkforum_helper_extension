@@ -3,7 +3,7 @@
 ## 安裝説明：
 
 1. [打開 Releases 頁](https://github.com/Eished/jkforum_helper_extension/releases)
-2. 下載 crx-jkf-helper-extension-1.0.0.zip 
+2. 下載最新版 crx-jkf-helper-extension-x.x.x.zip 
 3. 打開 Chrome 瀏覽器的擴展頁 chrome://extensions/ 
 4. 拖動安裝包進擴展頁安裝，或者解壓後在擴展頁選擇加載未打包的擴展程序
 
@@ -27,5 +27,6 @@
 - 自動完成每日任務
 - 自動發文
 - 批量下載帖子圖片
+
 
 
