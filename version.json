@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "app": {
+    "id": "jkforum-helper-extension",
+    "name": "JKForum Helper"
+  },
+  "channels": {
+    "stable": {
+      "latest": "1.0.2",
+      "minSupported": "1.0.0",
+      "releasedAt": "2026-01-02T10:05:00.579Z",
+      "download": {
+        "zip": "https://github.com/Eished/jkforum_helper_extension/releases/download/1.0.2/crx-jkf-helper-extension-1.0.2.zip"
+      },
+      "changelog": [
+        "请查看 GitHub Release 页面"
+      ],
+      "forceUpdate": false
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-01-02T10:05:00.579Z",
+    "ttl": 3600
+  }
+}
