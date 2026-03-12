@@ -1,6 +1,6 @@
 # JKForum 助手瀏覽器擴展
 
-**JKForum助手瀏覽器擴展版 和 篡改猴版插件-JKForum助手 不能同時使用，需關閉篡改猴版插件**
+**JKForum助手瀏覽器擴展版 和 [篡改猴版插件-JKForum助手](https://github.com/Eished/jkforum_helper) 不能同時使用，需關閉篡改猴版插件**
 
 ## 安裝説明：
 
@@ -43,3 +43,4 @@
 - 自動完成每日任務
 - 自動發文
 - 批量下載帖子圖片
+
