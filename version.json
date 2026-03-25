@@ -6,18 +6,20 @@
   },
   "channels": {
     "stable": {
-      "latest": "1.1.0",
+      "latest": "1.1.1",
       "minSupported": "1.0.0",
-      "releasedAt": "2026-03-12T12:30:04.347Z",
+      "releasedAt": "2026-03-25T10:03:09.115Z",
       "download": {
-        "zip": "https://github.com/Eished/jkforum_helper_extension/releases/download/1.1.0/crx-jkf-helper-extension-1.1.0.zip"
+        "zip": "https://github.com/Eished/jkforum_helper_extension/releases/download/1.1.1/crx-jkf-helper-extension-1.1.1.zip"
       },
-      "changelog": ["重要更新：本次更新内容较多，请查看 GitHub Release 页面"],
+      "changelog": [
+        "请查看 GitHub Release 页面"
+      ],
       "forceUpdate": false
     }
   },
   "meta": {
-    "generatedAt": "2026-03-12T12:30:04.347Z",
+    "generatedAt": "2026-03-25T10:03:09.115Z",
     "ttl": 3600
   }
 }
