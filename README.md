@@ -1,6 +1,8 @@
 # JKForum 助手瀏覽器擴展
 
-**JKForum助手瀏覽器擴展版 和 [JKForum助手篡改猴版插件](https://github.com/Eished/jkforum_helper) 不能同時使用，需關閉篡改猴版插件**
+捷克論壇自動簽到、自動現在有空、自動完成每日任務、自動發文、批量下載文章圖片、自動點贊文章、自動購買付費文章。
+
+**注意：JKForum助手瀏覽器擴展版 和 [JKForum助手篡改猴版插件](https://github.com/Eished/jkforum_helper) 不能同時使用，需關閉篡改猴版插件。该扩展仅兼容基于Chromium的浏览器，例如Chrome和Edge。**
 
 擴展主界面截圖展示：
 
