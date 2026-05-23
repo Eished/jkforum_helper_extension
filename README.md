@@ -23,7 +23,7 @@
 
 <img src="./README.assets/image-20260102114052548.png" alt="image-20260102114052548" style="zoom:50%;" />
 
-4. 打開 Chrome 瀏覽器的擴展頁 chrome://extensions/
+4. 打開 Chrome 瀏覽器的擴展頁 chrome://extensions/ （Edge瀏覽器為 edge://extensions/ ），**啟用開發人員模式**后出現 加載未打包的擴展程序 按鈕
 
 <img src="./README.assets/image-20260102114139718.png" alt="image-20260102114139718" style="zoom:50%;" />
 
